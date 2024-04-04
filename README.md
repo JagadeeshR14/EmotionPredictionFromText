@@ -31,7 +31,8 @@ EXAMPLE 5 : Input: "I feel I wanna get you closer and look at your eyes and have
 ## CONCLUSION
 This project successfully built a Bidirectional LSTM model for emotion prediction in text data, achieving an accuracy of 0.8774464119291705.
 
-FUTURE WORK :
+### FUTURE WORK :
+
 Hyperparameter Tuning : Further optimize the model's performance by fine-tuning various parameters.
 
 Ensemble Learning : Combine multiple models for more robust and reliable predictions.
