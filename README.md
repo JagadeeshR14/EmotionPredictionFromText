@@ -36,7 +36,7 @@ Ensemble Learning : Combine multiple models for more robust and reliable predict
 Advanced Text Preprocessing : Explore techniques like incorporating sentiment lexicons for richer emotional understanding.
 
 ## QUESTIONS AND DISCUSSION
-We welcome your questions and open the floor for discussion on emotion prediction with text data and potential applications of this technology.
+We welcome your questions and open the floor for discussion on emotion prediction from text data and potential applications of this technology.
 
 Any Questions?
 
