@@ -12,6 +12,7 @@ It contains text snippets labeled with six emotions: anger, fear, happiness, lov
 
 ## ACCURACY
 21405 Unique dataset Values
+
 Callback set to 87-90%
 
 ## EXAMPLE PREDICTIONS
