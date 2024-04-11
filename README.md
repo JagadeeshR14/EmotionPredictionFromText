@@ -14,7 +14,7 @@ It contains text snippets labeled with six emotions: anger, fear, happiness, lov
 ## ACCURACY
 21405 Unique dataset Values
 
-Callback set to 87% => (8774464119291705).
+Callback set to 87% => (8774464119291705)
 
 ## WHO ARE THE END USERS
 CUSTOMER SERVICE ANALYSIS : Companies in customer service fields could use the model to analyze customer reviews, emails, or chat conversations to understand customer sentiment.
@@ -37,7 +37,7 @@ TEST 4 : Input: "Im missing your presence" - Predicted Emotion: Sadness
 TEST 5 : Input: "I feel I wanna get you closer and look at your eyes and have a gentle hug" - Predicted Emotion: Love
 
 ## CONCLUSION
-This project successfully built a Bidirectional LSTM model for emotion prediction in text data, achieving an accuracy of 0.8774464119291705.
+This project successfully built a Bidirectional LSTM model for emotion prediction in text data, achieving an accuracy of 87%
 
 #### FUTURE WORK :
 
