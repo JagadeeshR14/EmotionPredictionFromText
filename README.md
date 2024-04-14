@@ -23,7 +23,7 @@ ENTERTAINMENT INDUSTRY: The model could be used in applications like sentiment a
 
 MENTAL HEALTHING SYSTEM : Mental health professionals could incorporate the model into applications to analyze user-generated content and potentially flag indicators of distress or emotional crisis.
 
-## TEST PREDICTIONS(RESULT)
+## TEST OUTPUT
 We can use the trained model to predict emotions for new text data.
 
 TEST 1 : Input: "I am very happy and joyful today" - Predicted Emotion: Happy 
