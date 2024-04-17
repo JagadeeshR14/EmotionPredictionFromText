@@ -6,7 +6,7 @@ This project builds a machine learning model to automatically classify emotions 
 Bidirectional Long Short-Term Memory (LSTM) and Text Preprocessing were the Deep Learning technique and Natural Language Processing used in this project.
 
 ## DATASET
-Used Dataset (From kaggle(Emotion_final.csv)).
+Used Dataset (Emotion_final.csv).
 
 The data comes with the Emotion and Text from the dataset.
 It contains text snippets labeled with six emotions: anger, fear, happiness, love, sadness, and surprise.
