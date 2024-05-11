@@ -17,11 +17,9 @@ It contains text snippets labeled with six emotions: anger, fear, happiness, lov
 Callback set to 87% => (8774464119291705)
 
 ## WHO ARE THE END USERS
-CUSTOMER SERVICE ANALYSIS : Companies in customer service fields could use the model to analyze customer reviews, emails, or chat conversations to understand customer sentiment.
-
-ENTERTAINMENT INDUSTRY: The model could be used in applications like sentiment analysis of social media feedback to gauge audience reception.
-
-MENTAL HEALTHING SYSTEM : Mental health professionals could incorporate the model into applications to analyze user-generated content and potentially flag indicators of distress or emotional crisis.
+- CUSTOMER SERVICE ANALYSIS : Companies in customer service fields could use the model to analyze customer reviews, emails, or chat conversations to understand customer sentiment.
+- ENTERTAINMENT INDUSTRY: The model could be used in applications like sentiment analysis of social media feedback to gauge audience reception.
+- MENTAL HEALTHING SYSTEM : Mental health professionals could incorporate the model into applications to analyze user-generated content and potentially flag indicators of distress or emotional crisis.
 
 ## TEST OUTPUT
 We can use the trained model to predict emotions for new text data.
@@ -41,11 +39,9 @@ This project successfully built a Bidirectional LSTM model for emotion predictio
 
 #### FUTURE WORK :
 
-Hyperparameter Tuning : Further optimize the model's performance by fine-tuning various parameters.
-
-Ensemble Learning : Combine multiple models for more robust and reliable predictions.
-
-Advanced Text Preprocessing : Explore techniques like incorporating sentiment lexicons for richer emotional understanding.
+- Hyperparameter Tuning : Further optimize the model's performance by fine-tuning various parameters.
+- Ensemble Learning : Combine multiple models for more robust and reliable predictions.
+- Advanced Text Preprocessing : Explore techniques like incorporating sentiment lexicons for richer emotional understanding.
 
 ## QUESTIONS AND DISCUSSION
 Have questions?, the floor will be opened for the discussion on emotion prediction from text data and potential applications of this technology.
